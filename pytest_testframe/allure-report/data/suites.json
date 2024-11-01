@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_script.login",
+    "children" : [ {
+      "name" : "test_Django_login",
+      "children" : [ {
+        "name" : "Test_Django_Login",
+        "children" : [ {
+          "name" : "test_login_01",
+          "uid" : "dd7158dff4d84a0f",
+          "parentUid" : "31576c414271cee1d7462d06c659d26b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1625195024199,
+            "stop" : 1625195024834,
+            "duration" : 635
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "31576c414271cee1d7462d06c659d26b"
+      } ],
+      "uid" : "347bd91332dc1bb59a35354166bfe283"
+    } ],
+    "uid" : "947ce25b680f61667653b6e6d442fc82"
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-M8FGP6TT",
+    "children" : [ {
+      "name" : "20880-MainThread",
+      "children" : [ {
+        "name" : "test_login_01",
+        "uid" : "dd7158dff4d84a0f",
+        "parentUid" : "6de9cb111c56b1e61c74574eaeab516d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625195024199,
+          "stop" : 1625195024834,
+          "duration" : 635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6de9cb111c56b1e61c74574eaeab516d"
+    } ],
+    "uid" : "53302cbeba66d1375e7c79010270b621"
+  } ]
+}

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 02 11:03:44 CST 2021","Fri Jul 02 11:03:44 CST 2021","635","test_script.login","test_Django_login","Test_Django_Login","","","test_login_01",""
